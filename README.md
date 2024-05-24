@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# História da Coreia do Sul para Fãs de K-Dramas;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto visa criar vídeos educativos e envolventes sobre a história da Coreia do Sul, especialmente direcionados para fãs de k-dramas. Através de uma combinação de tecnologias avançadas de inteligência artificial, produzimos conteúdos que destacam eventos históricos e culturais que frequentemente aparecem em dramas coreanos, proporcionando uma compreensão mais profunda e contextualizada dessas narrativas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **OpenAI GPT-4**: Utilizada para gerar roteiros e narrativas históricas detalhadas e precisas, garantindo uma apresentação fluida e envolvente dos conteúdos.
+- **InVideo AI**: Ferramenta empregada para criar vídeos profissionais a partir dos roteiros, incorporando imagens, animações e narrações para tornar os conteúdos visualmente atraentes e dinâmicos.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Pesquisa e Coleta de Informações**: 
+   - Coletamos dados de fontes confiáveis sobre a história da Coreia do Sul, cobrindo desde a Dinastia Joseon, passando pela ocupação japonesa, até a divisão das Coreias e o desenvolvimento moderno do país.
+
+2. **Geração de Roteiros**:
+   - Utilizando o OpenAI GPT-4, são gerados roteiros detalhados que explicam os eventos históricos e conectam esses eventos com elementos populares dos k-dramas, como personagens históricos, locais famosos e costumes culturais.
+
+3. **Criação de Vídeos**:
+   - Os roteiros são transformados em vídeos pela InVideo AI, que combina imagens históricas, clipes de dramas coreanos, animações e narrações para criar uma experiência educativa e envolvente.
+
+4. **Edição e Revisão**:
+   - A equipe revisa os vídeos gerados, ajustando e refinando conforme necessário para garantir a precisão histórica e a qualidade visual.
+
+5. **Publicação**:
+   - Os vídeos finalizados são publicados em plataformas de mídia social e sites educacionais, alcançando um amplo público de fãs de k-dramas e entusiastas da história.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os vídeos criados pelo projeto receberam feedback positivo de fãs de k-dramas e educadores. Eles não só aumentaram o interesse pela história da Coreia do Sul, mas também ajudaram os espectadores a entenderem melhor os contextos históricos dos seus dramas favoritos. As métricas de visualização e engajamento nas plataformas de mídia social indicaram um crescimento significativo, demonstrando o impacto positivo do projeto.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar conteúdos históricos precisos e envolventes com a ajuda de IA apresentou desafios únicos. Garantir que os roteiros gerados pela IA fossem "naturais" e autênticos foi crucial, já que o público alvo é conhecedor dos detalhes históricos retratados nos k-dramas. Equilibrar a precisão histórica com uma narrativa envolvente foi um dos maiores desafios, mas também uma oportunidade de inovar na educação através da tecnologia.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
